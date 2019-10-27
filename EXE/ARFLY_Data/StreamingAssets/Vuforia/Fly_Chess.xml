@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Yellow4" size="1.000000 1.551515" />
+    <ImageTarget name="Yellow3" size="1.000000 1.548193" />
+    <ImageTarget name="Yellow2" size="1.000000 1.556886" />
+    <ImageTarget name="Yellow1" size="1.000000 1.576687" />
+    <ImageTarget name="Red4" size="1.000000 1.548780" />
+    <ImageTarget name="Red3" size="1.000000 1.575758" />
+    <ImageTarget name="Red2" size="1.000000 1.544379" />
+    <ImageTarget name="Red1" size="1.000000 1.579268" />
+    <ImageTarget name="Green4" size="1.000000 1.539394" />
+    <ImageTarget name="Green3" size="1.000000 1.556886" />
+    <ImageTarget name="Green2" size="1.000000 1.542169" />
+    <ImageTarget name="Green1" size="1.000000 1.576687" />
+    <ImageTarget name="dice" size="1.000000 1.560185" />
+    <ImageTarget name="Chessboard" size="1.000000 1.567442" />
+    <ImageTarget name="Blue4" size="1.000000 1.564417" />
+    <ImageTarget name="Blue3" size="1.000000 1.569697" />
+    <ImageTarget name="Blue2" size="1.000000 1.566265" />
+    <ImageTarget name="Blue1" size="1.000000 1.554878" />
+  </Tracking>
+</QCARConfig>
