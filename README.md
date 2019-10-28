@@ -1,24 +1,7 @@
 # ARFlyingChess
 A Hackathon project, a chess game based on AR
 
----
-title: 【Project】AR Flying Chess
-author: Ziduan Zhang
-categories: '作品'
-tags:
-  - 项目
-  - 作品
-  - Hackathon
-  - AR
-  - 游戏
-date: 2019-10-27 10:37:36
-thumbnail: img/post5.jpg
-description: A hackathon project, a chess game using AR technology.
----
-
 This is a Hackathon project made in 24 hours. It's about a chess game using AR technology.
-
-<!-- more -->
 
 ## Basic Information
 
