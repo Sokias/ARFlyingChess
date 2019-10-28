@@ -18,20 +18,3 @@ One of the topics of the Hackathon we attended is *how to make life more enjoyab
 Another benefit of using AR technology is that we don't need a heavy board and pieces to play chess. In our design, we chose to use poker cards as recognition objects to generate chessboards, roll the dice, and control aircraft walking.
 
 If we continue to develop this game in the future, we can integrate a variety of different board games and control them with poker cards. Then, we can play different board games with only one set of cards.
-
-## Photos
-
-![screenshot1](/img/post5/img2.png)
-↑ The chessboard generate by AR
-
-![screenshot2](/img/post5/img3.png)
-↑ Another red card is used as dice
-
-![screenshot3](/img/post5/img4.png)
-↑ After roll the dice, you can choose a plane to fly
-
-![screenshot4](/img/post5/img5.png)
-↑ You will find that there's small little blocks stay above the plane. That's used to indicate the number of each plane.
-
-![screenshot5](/img/post5/img6.png)
-↑ After you send all the planes to the endpoint. You will get four crowns.
