@@ -19,9 +19,7 @@ Another benefit of using AR technology is that we don't need a heavy board and p
 
 If we continue to develop this game in the future, we can integrate a variety of different board games and control them with poker cards. Then, we can play different board games with only one set of cards.
 
-## Photos & Videos
-
-### Photos
+## Photos
 
 ![screenshot1](/img/post5/img2.png)
 ↑ The chessboard generate by AR
@@ -37,20 +35,3 @@ If we continue to develop this game in the future, we can integrate a variety of
 
 ![screenshot5](/img/post5/img6.png)
 ↑ After you send all the planes to the endpoint. You will get four crowns.
-
-### Videos
-
-<video id="video1" controls="" preload="none" width="100%" height="100%">
-    <source id="mp4" src="/video/1.mp4" type="video/mp4">
-</video>
-↑ Opening animation: the board will be loaded little by little.
-
-<video id="video2" controls="" preload="none" width="100%" height="100%">
-    <source id="mp4" src="/video/2.mp4" type="video/mp4">
-</video>
-↑ Roll the dice and control the plane to fly out. Please note that when the plane encounters a grid of the same color as himself, he will jump to the next grid of that color.
-
-<video id="video3" controls="" preload="none" width="100%" height="100%">
-    <source id="mp4" src="/video/3.mp4" type="video/mp4">
-</video>
-↑ When an airplane hits another aircraft, the impacted aircraft needs to return to the starting point.
